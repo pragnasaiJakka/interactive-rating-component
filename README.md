@@ -1,6 +1,6 @@
-# Frontend Mentor - Interactive rating component solution
+ Interactive rating component solution
 
-This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Interactive rating component challenge] Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -30,10 +30,6 @@ Users should be able to:
 
 ![](images/screenshot.PNG)
 
-### Links
-
-- Solution URL: [https://github.com/rovicbalingbing/interactive-rating-component-frontendMentor.git](https://github.com/rovicbalingbing/interactive-rating-component-frontendMentor.git)
-- Live Site URL: [https://rovicbalingbing.github.io/interactive-rating-component-frontendMentor/](https://rovicbalingbing.github.io/interactive-rating-component-frontendMentor/)
 
 ## My process
 
@@ -85,8 +81,3 @@ function submitRating() {
 }
 ```
 
-## Author
-
-- Website - [John Rovie R. Balingbing](https://github.com/rovicbalingbing)
-- Frontend Mentor - [@rovicbalingbing](https://www.frontendmentor.io/profile/rovicbalingbing)
-- Twitter - [@roscidDreaming](https://www.twitter.com/roscidDreaming)
